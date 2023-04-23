@@ -13,6 +13,16 @@
 .list {
     list-style: none;
 }
+
+.page-header {
+height: 72px;
+width: 1440px;
+border: red solid;
+padding-top: 24px;
+padding-bottom: 24px;
+margin: 0px;
+background-color: yellow;
+}
 /*style link*/
 .site-nave .link:hover,
 .site-nave .link:focus {
