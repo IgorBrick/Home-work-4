@@ -75,3 +75,8 @@ text-transform: capitalize;
     text-align: center;
     letter-spacing: 0.02em;
 }
+
+.hero-blok {
+    background-color: yellowgreen;
+    border: red solid;
+}
