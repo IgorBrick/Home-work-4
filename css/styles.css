@@ -1,0 +1,67 @@
+/* logo style*/
+.logo {
+    text-decoration: none;
+}
+.logo span {
+    color: #4D5AE5;
+    }
+
+    body {
+        background-color: #fff;
+    }
+    /*list style*/
+.list {
+    list-style: none;
+}
+/*style link*/
+.site-nave .link:hover,
+.site-nave .link:focus {
+     color: black;
+}
+.current .link  {
+color: #4D5AE5;
+}
+
+.auth-nav .link:hover,
+.auth-nav .link:focus {
+    color: black;
+}
+
+.auth-nav a {
+        text-decoration: none;
+        color: #434455;
+}
+
+.site-nave a {
+    text-decoration: none;
+}
+/* Section style*/
+.section-title {
+font-weight: 600;
+font-size: 20px;
+line-height: 1.2;
+/* identical to box height, or 120% */
+}
+
+.benefits p {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+}
+/* h2*/
+.header-h2 {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+}
+/* style hero*/
+.hero {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;  
+    text-align: center;
+    letter-spacing: 0.02em;
+}
